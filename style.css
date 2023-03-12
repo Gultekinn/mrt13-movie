@@ -1,0 +1,63 @@
+.carusell{
+    display: flex;
+    justify-content: center;
+   padding-top: 18%;
+}
+
+.btnnn{
+   text-align: center;
+padding-top: 2%;
+border: 2hv;
+}
+.stt{
+ color: rgb(255, 255, 255);
+text-align: center;
+ 
+}
+.sty{
+   background-color:rgb(105, 105, 105);
+   margin: 3px;
+}
+
+.carousel{
+margin-right: auto;
+   width: 20%;
+   height: 50%;
+   padding: 2%;
+   
+   position: relative;
+}
+.tct{
+
+ 
+   width: 40%;
+   height: 60%;
+   padding: 2%;
+   
+   position: relative;
+
+}
+.row{
+
+   background-color: rgb(116, 111, 111);
+}
+
+
+
+
+
+}
+.STP{
+padding: 5%;
+width: 100%;
+height: 30%;
+}
+
+.stopi{
+
+   background-image: url(https://i.pinimg.com/originals/51/a6/85/51a6859fd3425e4cdb41517c93957de5.jpg) ;
+ background-repeat:calc(1);
+background-size: contain;
+
+ }
+
